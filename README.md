@@ -159,12 +159,3 @@ I create **step-by-step technical articles** and user manuals:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmerMuhammedGUNDOGDU&show_icons=true&theme=tokyonight&cache_seconds=1800&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerMuhammedGUNDOGDU&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmerMuhammedGUNDOGDU&theme=tokyonight)
-
