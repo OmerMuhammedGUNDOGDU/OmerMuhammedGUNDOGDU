@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=220&section=header&text=Ömer%20Muhammed%20Gündoğdu&fontSize=40&fontAlignY=35&desc=Software%20Developer%20%7C%20QA%20Automation%20%7C%20Cyber%20Security&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&fontColor=ffffff&height=220&section=header&text=Ömer%20Muhammed%20Gündoğdu&fontSize=40&fontAlignY=35&desc=Software%20Developer%20%7C%20QA%20Automation%20%7C%20Cyber%20Security&descAlignY=55&animation=fadeIn" />
 </p>
 
 
