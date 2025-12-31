@@ -1,4 +1,11 @@
-<img width="1920" height="1080" alt="Blue and Black Modern Technology Presentation" src="https://github.com/user-attachments/assets/36e42a65-91b7-41b0-adb0-f7d9b8c69869" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=100&lines=Ömer+Muhammed+Gündoğdu;Software+Developer+%7C+QA+Automation+%7C+Cyber+Security;Build+%E2%80%A2+Test+%E2%80%A2+Secure" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ömer%20Muhammed%20Gündoğdu&fontSize=40&fontAlignY=35&desc=Software%20Developer%20%7C%20QA%20Automation%20%7C%20Cyber%20Security&descAlignY=55&animation=fadeIn" />
+</p>
 
 
 # 👋 Hi, I'm Ömer Muhammed Gündoğdu  
